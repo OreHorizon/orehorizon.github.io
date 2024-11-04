@@ -1,1 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ore Horizon - Wiki</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        h1 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            padding: 5px 0;
+        }
+        .section {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
 
+    <h1>Ore Horizon</h1>
+    <p><strong>Ore Horizon</strong> is a 2D mining game developed by Hugo Games, designed for both single-player and online multiplayer experiences. Players mine different types of ores and sell them to improve their mining skills, upgrade equipment, and explore deeper layers of the terrain.</p>
+
+    <hr>
+
+    <div class="section">
+        <h2>Table of Contents</h2>
+        <ul>
+            <li><a href="#overview">Overview</a></li>
+            <li><a href="#gameplay">Gameplay</a></li>
+            <li><a href="#world-generation">World Generation</a></li>
+            <li><a href="#multiplayer-features">Multiplayer Features</a></li>
+            <li><a href="#entities-and-mobs">Entities and Mobs</a></li>
+            <li><a href="#development">Development</a></li>
+            <li><a href="#future-plans">Future Plans</a></li>
+        </ul>
+    </div>
+
+    <div class="section" id="overview">
+        <h2>Overview</h2>
+        <p><em>Ore Horizon</em> offers a sandbox-style mining experience with a procedurally generated infinite world and a variety of resources for players to discover and collect. The goal is to advance by selling ores, upgrading equipment, and exploring as deep as possible within the world.</p>
+        <h3>Game Details</h3>
+        <ul>
+            <li><strong>Genre:</strong> Sandbox, Mining, Adventure</li>
+            <li><strong>Platform:</strong> Android, PC (additional platforms in future)</li>
+        </ul>
+    </div>
+
+    <div class="section" id="gameplay">
+        <h2>Gameplay</h2>
+        <p>Players start with basic tools and can mine ores, which they sell to acquire coins. Coins are used to upgrade mining equipment, improve skills, and gain access to deeper levels of the game world.</p>
+    </div>
+
+    <div class="section" id="world-generation">
+        <h2>World Generation</h2>
+        <p>The world in <em>Ore Horizon</em> is generated using Perlin noise for realistic terrain, including an infinite side-view world with layers of grass, dirt, and stone. Ores are randomly placed in the stone layers for players to discover.</p>
+    </div>
+
+    <div class="section" id="multiplayer-features">
+        <h2>Multiplayer Features</h2>
+        <p>The game includes online multiplayer functionality, allowing players to explore and mine together, trade resources, and compete for high scores on global leaderboards.</p>
+    </div>
+
+    <div class="section" id="entities-and-mobs">
+        <h2>Entities and Mobs</h2>
+        <p><em>Ore Horizon</em> features various entities, mobs, and animals in the game world. These entities bring additional challenges and rewards to players as they mine deeper into the world.</p>
+    </div>
+
+    <div class="section" id="development">
+        <h2>Development</h2>
+        <p><em>Ore Horizon</em> is developed using the LibGDX framework with Box2D for physics simulation, allowing realistic interactions with the game world. It is currently optimized for mobile devices.</p>
+    </div>
+
+    <div class="section" id="future-plans">
+        <h2>Future Plans</h2>
+        <p>Planned updates include additional mobs, expanded multiplayer features, and support for new platforms. There may also be more resources, biomes, and special events to enhance gameplay.</p>
+    </div>
+
+</body>
+</html>
